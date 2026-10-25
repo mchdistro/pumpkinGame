@@ -13,7 +13,7 @@
       "description": "Minecraft 1.21.4 (Fabric v0.20.1)",
       "icon": "https://github.com/mchdistro/pumpkinGame/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "101.250.9.30:65535",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
