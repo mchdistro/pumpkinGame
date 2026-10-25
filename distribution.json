@@ -161,6 +161,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "MD5": "128a8d042180e7c92567342e21a21a6d"
+          }
+        },
+        {
           "id": "com.example:fwebdisplay:0.11.30@jar",
           "name": "F-webdisplay",
           "type": "FabricMod",
