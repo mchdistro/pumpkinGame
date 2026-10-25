@@ -389,7 +389,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4248,
+            "size": 4247,
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/options.txt",
             "path": "options.txt"
           }
