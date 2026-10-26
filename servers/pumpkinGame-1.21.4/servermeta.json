@@ -14,15 +14,9 @@
     "mainServer": true,
     "autoconnect": true,
     "javaOptions": {
-      "supported": "=>21",
+      "supported": ">=21.0.0",
       "suggestedMajor": 21,
-      "platformOptions": [
-        {
-          "platform": "win32",
-          "architecture": "x64",
-          "distribution": "TEMURIN"
-        }
-      ],
+      "distribution": "TEMURIN",
       "ram": {
         "minimum": 4096,
         "recommended": 8192
