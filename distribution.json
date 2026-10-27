@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "pumpkinGame-1.21.4",
+      "id": "pumpkinGame_v1-1.21.4",
       "name": "호박게임",
       "description": "Minecraft 1.21.4 (Fabric v0.20.1)",
       "icon": "https://github.com/mchdistro/pumpkinGame/raw/main/server-icon.png",
@@ -130,7 +130,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1259819,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
             "MD5": "ecbcffd1aa9d83847e00da62fc45d9b3"
           }
         },
@@ -140,7 +140,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 18794,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/f-anon-1.2.4.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/f-anon-1.2.4.jar",
             "MD5": "a9548e699a92e61c09915e6e3d1a7ac4"
           }
         },
@@ -150,7 +150,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6882,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/F-downed-1.0.3.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/F-downed-1.0.3.jar",
             "MD5": "379ac1ee30cd271c3a19f3fc8d512b2b"
           }
         },
@@ -160,7 +160,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -170,7 +170,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2707160,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/fwebdisplay-0.11.30.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/fwebdisplay-0.11.30.jar",
             "MD5": "9888edf31099bc46c6a398542db3039a"
           }
         },
@@ -180,7 +180,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514384,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "3893e727701bc66b4f3dbd80a434282d"
           }
         },
@@ -190,7 +190,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 34697,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/meteorfx-fabric-1.21.4-1.0.0.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/meteorfx-fabric-1.21.4-1.0.0.jar",
             "MD5": "04caa000468037c7c780c8ebbf09020f"
           }
         },
@@ -200,7 +200,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12366300,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.17.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.17.jar",
             "MD5": "bafbdb1d1407688da7baa29407d201d9"
           }
         },
@@ -210,7 +210,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -220,7 +220,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 286959,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/fabricmods/required/talking-heads-1.1.4+1.21.4+fabric.jar",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/talking-heads-1.1.4+1.21.4+fabric.jar",
             "MD5": "73dc4a10a8dc990dddbe8138d269c993"
           }
         },
@@ -230,7 +230,7 @@
           "type": "File",
           "artifact": {
             "size": 68447,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Apologize.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Apologize.emotecraft",
             "MD5": "f5b23e3075677be7ae9110a3ec614306",
             "path": "emotes/Apologize.emotecraft"
           }
@@ -241,7 +241,7 @@
           "type": "File",
           "artifact": {
             "size": 58953,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/CaramellDansen.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/CaramellDansen.emotecraft",
             "MD5": "d63d8cb4512a3e7dde81811e7fac3381",
             "path": "emotes/CaramellDansen.emotecraft"
           }
@@ -252,7 +252,7 @@
           "type": "File",
           "artifact": {
             "size": 42907,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Dab.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Dab.emotecraft",
             "MD5": "4791178b5db5dd651f6760eb0633363b",
             "path": "emotes/Dab.emotecraft"
           }
@@ -263,7 +263,7 @@
           "type": "File",
           "artifact": {
             "size": 78059,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Fat.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Fat.emotecraft",
             "MD5": "16d5298bb18f447a6a057ca343ed62c7",
             "path": "emotes/Fat.emotecraft"
           }
@@ -274,7 +274,7 @@
           "type": "File",
           "artifact": {
             "size": 83259,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Hell%20Destroyer%20(Dance)%20(Multiverse)%20(Helltaker).emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Hell%20Destroyer%20(Dance)%20(Multiverse)%20(Helltaker).emotecraft",
             "MD5": "cf421bf90808bc97c3a603518fad57e2",
             "path": "emotes/Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft"
           }
@@ -285,7 +285,7 @@
           "type": "File",
           "artifact": {
             "size": 41712,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Macarena%20(Dance).emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Macarena%20(Dance).emotecraft",
             "MD5": "5358be88c47dfdfa22a62a69722a1bad",
             "path": "emotes/Macarena (Dance).emotecraft"
           }
@@ -296,7 +296,7 @@
           "type": "File",
           "artifact": {
             "size": 68184,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Naruto%20Run%20(Movement)%20(Multiverse)%20(Naruto).emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Naruto%20Run%20(Movement)%20(Multiverse)%20(Naruto).emotecraft",
             "MD5": "a9f442f1a238074658d6aa34a28afda9",
             "path": "emotes/Naruto Run (Movement) (Multiverse) (Naruto).emotecraft"
           }
@@ -307,7 +307,7 @@
           "type": "File",
           "artifact": {
             "size": 56344,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Phit%20Hon%20(Dance).emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Phit%20Hon%20(Dance).emotecraft",
             "MD5": "9eef31cabc0893f9e548fc2a7de5df3f",
             "path": "emotes/Phit Hon (Dance).emotecraft"
           }
@@ -318,7 +318,7 @@
           "type": "File",
           "artifact": {
             "size": 75993,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Rat%20Dance%201.2.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Rat%20Dance%201.2.emotecraft",
             "MD5": "6ce6cdb711baf7d2bbb8161208378e51",
             "path": "emotes/Rat Dance 1.2.emotecraft"
           }
@@ -329,7 +329,7 @@
           "type": "File",
           "artifact": {
             "size": 70022,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Sluggish%20Walk%20(Movement).emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Sluggish%20Walk%20(Movement).emotecraft",
             "MD5": "04fbae55b166cca6d92c5f5ecc7c8d79",
             "path": "emotes/Sluggish Walk (Movement).emotecraft"
           }
@@ -340,7 +340,7 @@
           "type": "File",
           "artifact": {
             "size": 26155,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/smoking.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/smoking.emotecraft",
             "MD5": "e3036730428aae146ec4c76ad0e2c5e7",
             "path": "emotes/smoking.emotecraft"
           }
@@ -351,7 +351,7 @@
           "type": "File",
           "artifact": {
             "size": 8311,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Take%20The%20L.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Take%20The%20L.emotecraft",
             "MD5": "f1eb22b0c25d4ed18b4d3f65cb2644b9",
             "path": "emotes/Take The L.emotecraft"
           }
@@ -362,7 +362,7 @@
           "type": "File",
           "artifact": {
             "size": 59234,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Twerk%20(Dance).emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Twerk%20(Dance).emotecraft",
             "MD5": "0acf9fa22fb28041ac927be6d8f7149b",
             "path": "emotes/Twerk (Dance).emotecraft"
           }
@@ -373,7 +373,7 @@
           "type": "File",
           "artifact": {
             "size": 994161,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/emotes/Zero%20Two%20Wiggle.emotecraft",
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Zero%20Two%20Wiggle.emotecraft",
             "MD5": "6a0a9a9b8008151dd7a9fc0a620abd65",
             "path": "emotes/Zero Two Wiggle.emotecraft"
           }
@@ -383,8 +383,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4247,
-            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame-1.21.4/files/options.txt",
+            "size": 5285,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         }
