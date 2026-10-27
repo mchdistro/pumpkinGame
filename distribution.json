@@ -175,6 +175,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          }
+        },
+        {
           "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
           "name": "Journeymap",
           "type": "FabricMod",
@@ -185,13 +195,33 @@
           }
         },
         {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.6+mc1.21.3@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 655990,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.6+mc1.21.3.jar",
+            "MD5": "c95329994b4cc793ec412462543c4f67"
+          }
+        },
+        {
           "id": "kr.dicov:meteorfx:1.0.0@jar",
           "name": "Dicov Meteor Effects",
           "type": "FabricMod",
           "artifact": {
-            "size": 34697,
+            "size": 139297,
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/meteorfx-fabric-1.21.4-1.0.0.jar",
-            "MD5": "04caa000468037c7c780c8ebbf09020f"
+            "MD5": "b121aa303886af37eefb75bddc1c0e9a"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.27@jar",
+          "name": "Mouse Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 76225,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/MouseTweaks-fabric-mc1.21.3-2.27.jar",
+            "MD5": "8a1268311a2a34bd63fec02e699a5d51"
           }
         },
         {
