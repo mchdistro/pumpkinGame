@@ -145,6 +145,16 @@
           }
         },
         {
+          "id": "com.fanon:f-anon:1.3.2@jar",
+          "name": "F-Anon",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 25487,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/f-anon-1.3.2.jar",
+            "MD5": "1921507b3068924b3b3bcb85dfbdfdf7"
+          }
+        },
+        {
           "id": "kr.worlha.fdowned:f-downed:1.0.3@jar",
           "name": "F-downed",
           "type": "FabricMod",
