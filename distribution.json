@@ -446,9 +446,9 @@
           "name": "journeymap.minimap2.config",
           "type": "File",
           "artifact": {
-            "size": 2316,
+            "size": 2318,
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
-            "MD5": "1abca01674ab336f752007fe60f69267",
+            "MD5": "ed5c8e967487efee5210cb2d6a9fd3ff",
             "path": "journeymap/config/6.0/journeymap.minimap2.config"
           }
         },
