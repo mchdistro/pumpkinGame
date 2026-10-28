@@ -424,9 +424,9 @@
           "name": "journeymap.fullmap.config",
           "type": "File",
           "artifact": {
-            "size": 1303,
+            "size": 1305,
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
-            "MD5": "74f93e2d76e02f439b5863482c2532a0",
+            "MD5": "c3458c58ada1c50336a19b0207e1fc3f",
             "path": "journeymap/config/6.0/journeymap.fullmap.config"
           }
         },
