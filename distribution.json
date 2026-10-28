@@ -409,6 +409,94 @@
           }
         },
         {
+          "id": "journeymap.core.config",
+          "name": "journeymap.core.config",
+          "type": "File",
+          "artifact": {
+            "size": 2689,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
+            "MD5": "bf78743aa6860c2a43812feae33e5a80",
+            "path": "journeymap/config/6.0/journeymap.core.config"
+          }
+        },
+        {
+          "id": "journeymap.fullmap.config",
+          "name": "journeymap.fullmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1303,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "MD5": "74f93e2d76e02f439b5863482c2532a0",
+            "path": "journeymap/config/6.0/journeymap.fullmap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 2303,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "MD5": "9a5e02683767bc4b14ab6ec2c9b14e0d",
+            "path": "journeymap/config/6.0/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 2316,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "MD5": "1abca01674ab336f752007fe60f69267",
+            "path": "journeymap/config/6.0/journeymap.minimap2.config"
+          }
+        },
+        {
+          "id": "journeymap.rendering.config",
+          "name": "journeymap.rendering.config",
+          "type": "File",
+          "artifact": {
+            "size": 671,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
+            "MD5": "3c59e9461a03d6871f2c212926226c33",
+            "path": "journeymap/config/6.0/journeymap.rendering.config"
+          }
+        },
+        {
+          "id": "journeymap.topo.config",
+          "name": "journeymap.topo.config",
+          "type": "File",
+          "artifact": {
+            "size": 971,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
+            "MD5": "5fb3dfea62659d9dd797ce1255892508",
+            "path": "journeymap/config/6.0/journeymap.topo.config"
+          }
+        },
+        {
+          "id": "journeymap.waypoint.config",
+          "name": "journeymap.waypoint.config",
+          "type": "File",
+          "artifact": {
+            "size": 1235,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
+            "MD5": "d4fed50a3db93752a53c8c1b40b88f3e",
+            "path": "journeymap/config/6.0/journeymap.waypoint.config"
+          }
+        },
+        {
+          "id": "journeymap.webmap.config",
+          "name": "journeymap.webmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
+            "MD5": "8744ca8d38e13042ff4c4b742b9004e8",
+            "path": "journeymap/config/6.0/journeymap.webmap.config"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -416,6 +504,50 @@
             "size": 5285,
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Bliss_v2.1.2.zip",
+          "name": "Bliss_v2.1.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1791406,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/shaderpacks/Bliss_v2.1.2.zip",
+            "MD5": "73eac5d017a268ea8175c2025c2863ad",
+            "path": "shaderpacks/Bliss_v2.1.2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.9.3.zip",
+          "name": "ComplementaryReimagined_r5.9.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 553397,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+            "MD5": "54cd249cd1e95a4e19f0ea2cb4369e71",
+            "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.9.3.zip",
+          "name": "ComplementaryUnbound_r5.9.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 553400,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+            "MD5": "e9c0e174f43125d45b192ef684f5d4d4",
+            "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip"
+          }
+        },
+        {
+          "id": "Luminara Shader 1.5.zip",
+          "name": "Luminara Shader 1.5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 6355139,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/shaderpacks/Luminara%20Shader%201.5.zip",
+            "MD5": "a9fa7f989bd8994b0ad2c8ce7f95e95e",
+            "path": "shaderpacks/Luminara Shader 1.5.zip"
           }
         }
       ]
