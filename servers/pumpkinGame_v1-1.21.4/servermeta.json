@@ -5,7 +5,7 @@
     "name": "호박게임",
     "description": "Minecraft 1.21.4 (Fabric v0.20.1)",
     "icon": "https://github.com/mchdistro/pumpkinGame/raw/main/server-icon.png",
-    "address": "101.250.9.30:65535",
+    "address": "58.239.74.155:65535",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
