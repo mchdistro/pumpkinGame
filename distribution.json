@@ -309,6 +309,17 @@
           }
         },
         {
+          "id": "gnome.emotecraft",
+          "name": "gnome.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 1735741,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/gnome.emotecraft",
+            "MD5": "f4e2788f05a401b19eb38dd8fb2b57fa",
+            "path": "emotes/gnome.emotecraft"
+          }
+        },
+        {
           "id": "Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
           "name": "Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
           "type": "File",
