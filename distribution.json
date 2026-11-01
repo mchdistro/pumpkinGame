@@ -286,6 +286,17 @@
           }
         },
         {
+          "id": "Bee v5.emotecraft",
+          "name": "Bee v5.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 50767,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Bee%20v5.emotecraft",
+            "MD5": "f715da94c8a918532c57ef92748330eb",
+            "path": "emotes/Bee v5.emotecraft"
+          }
+        },
+        {
           "id": "CaramellDansen.emotecraft",
           "name": "CaramellDansen.emotecraft",
           "type": "File",
@@ -297,6 +308,17 @@
           }
         },
         {
+          "id": "cool sit.emotecraft",
+          "name": "cool sit.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 32018,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/cool%20sit.emotecraft",
+            "MD5": "1bf1e43af3509f5da821ed632184071f",
+            "path": "emotes/cool sit.emotecraft"
+          }
+        },
+        {
           "id": "Dab.emotecraft",
           "name": "Dab.emotecraft",
           "type": "File",
@@ -305,6 +327,28 @@
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Dab.emotecraft",
             "MD5": "4791178b5db5dd651f6760eb0633363b",
             "path": "emotes/Dab.emotecraft"
+          }
+        },
+        {
+          "id": "Depression.emotecraft",
+          "name": "Depression.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 52428,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Depression.emotecraft",
+            "MD5": "8ea4c4b7e234c7b778db3323fdaeb3a9",
+            "path": "emotes/Depression.emotecraft"
+          }
+        },
+        {
+          "id": "Family Guy Death.emotecraft",
+          "name": "Family Guy Death.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 38152,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Family%20Guy%20Death.emotecraft",
+            "MD5": "3487b2cdb1a0e8a863e01f01fc083bf9",
+            "path": "emotes/Family Guy Death.emotecraft"
           }
         },
         {
@@ -341,6 +385,17 @@
           }
         },
         {
+          "id": "Jiggle your ass (Dance).emotecraft",
+          "name": "Jiggle your ass (Dance).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 81524,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Jiggle%20your%20ass%20(Dance).emotecraft",
+            "MD5": "b56a2dc05b3c39a56f439e8c62ba5b16",
+            "path": "emotes/Jiggle your ass (Dance).emotecraft"
+          }
+        },
+        {
           "id": "Lay on side.emotecraft",
           "name": "Lay on side.emotecraft",
           "type": "File",
@@ -349,6 +404,17 @@
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Lay%20on%20side.emotecraft",
             "MD5": "58c2a08623c11ad3689d8908eb1bbea6",
             "path": "emotes/Lay on side.emotecraft"
+          }
+        },
+        {
+          "id": "Liliputian.emotecraft",
+          "name": "Liliputian.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 49856,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Liliputian.emotecraft",
+            "MD5": "c470a166ceedf050455586f209a7a824",
+            "path": "emotes/Liliputian.emotecraft"
           }
         },
         {
