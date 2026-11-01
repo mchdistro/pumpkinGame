@@ -185,6 +185,16 @@
           }
         },
         {
+          "id": "com.example:fwebdisplay:0.11.34@jar",
+          "name": "F-webdisplay",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2712803,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/fabricmods/required/fwebdisplay-0.11.34.jar",
+            "MD5": "f64b2055a4fe506121b19d60578f3865"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
