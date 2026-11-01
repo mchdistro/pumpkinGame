@@ -331,6 +331,17 @@
           }
         },
         {
+          "id": "Lay on side.emotecraft",
+          "name": "Lay on side.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 53743,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Lay%20on%20side.emotecraft",
+            "MD5": "58c2a08623c11ad3689d8908eb1bbea6",
+            "path": "emotes/Lay on side.emotecraft"
+          }
+        },
+        {
           "id": "Macarena (Dance).emotecraft",
           "name": "Macarena (Dance).emotecraft",
           "type": "File",
@@ -361,6 +372,17 @@
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Phit%20Hon%20(Dance).emotecraft",
             "MD5": "9eef31cabc0893f9e548fc2a7de5df3f",
             "path": "emotes/Phit Hon (Dance).emotecraft"
+          }
+        },
+        {
+          "id": "Pokedance.emotecraft",
+          "name": "Pokedance.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 68932,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Pokedance.emotecraft",
+            "MD5": "6494a85865f9865642e416b0d82a3953",
+            "path": "emotes/Pokedance.emotecraft"
           }
         },
         {
@@ -405,6 +427,28 @@
             "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/Take%20The%20L.emotecraft",
             "MD5": "f1eb22b0c25d4ed18b4d3f65cb2644b9",
             "path": "emotes/Take The L.emotecraft"
+          }
+        },
+        {
+          "id": "The Honored One (levitation).emotecraft",
+          "name": "The Honored One (levitation).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 1016290,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/The%20Honored%20One%20(levitation).emotecraft",
+            "MD5": "f2eec0e77d2e20f96e5b90761dba2d9d",
+            "path": "emotes/The Honored One (levitation).emotecraft"
+          }
+        },
+        {
+          "id": "To lie down.emotecraft",
+          "name": "To lie down.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 46361,
+            "url": "https://github.com/mchdistro/pumpkinGame/raw/main/servers/pumpkinGame_v1-1.21.4/files/emotes/To%20lie%20down.emotecraft",
+            "MD5": "bf8e8b79d3f5c5a7f3d356230bd2c388",
+            "path": "emotes/To lie down.emotecraft"
           }
         },
         {
